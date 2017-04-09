@@ -24,7 +24,7 @@ namespace XOR_CSharp
     /// </summary>
     public partial class MainWindow : Window
     {
-        //-----------------------------------------
+        //12345
         public SynchronizationContext uiContext;
         CancellationTokenSource cts;
         static int Key2 = 0;
