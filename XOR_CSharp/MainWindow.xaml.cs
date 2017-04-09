@@ -33,6 +33,7 @@ namespace XOR_CSharp
 
         public MainWindow()
         {
+            //1234123412341234123412
             uiContext = SynchronizationContext.Current;
             InitializeComponent();
             Button1.IsEnabled = false;
