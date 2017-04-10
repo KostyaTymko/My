@@ -24,9 +24,6 @@ namespace XOR_CSharp
     /// </summary>
     public partial class MainWindow : Window
     {
-<<<<<<< HEAD
-
-
         //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
         public SynchronizationContext uiContext;
@@ -38,11 +35,8 @@ namespace XOR_CSharp
 
         public MainWindow()
         {
-<<<<<<< HEAD
             //vvvvvvvvvkkkkkkk
-
-            
- 
+         
             uiContext = SynchronizationContext.Current;
             InitializeComponent();
             Button1.IsEnabled = false;
