@@ -24,11 +24,7 @@ namespace XOR_CSharp
     /// </summary>
     public partial class MainWindow : Window
     {
-<<<<<<< HEAD
-
-
-        //<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+        //12345
         public SynchronizationContext uiContext;
         CancellationTokenSource cts;
         static int Key2 = 0;
@@ -38,11 +34,7 @@ namespace XOR_CSharp
 
         public MainWindow()
         {
-<<<<<<< HEAD
-            //vvvvvvvvvkkkkkkk
-
-            
- 
+            //1234123412341234123412
             uiContext = SynchronizationContext.Current;
             InitializeComponent();
             Button1.IsEnabled = false;
