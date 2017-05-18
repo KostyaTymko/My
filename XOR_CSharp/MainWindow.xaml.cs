@@ -25,10 +25,12 @@ namespace XOR_CSharp
     public partial class MainWindow : Window
     {
 
-        //4534
-
-
-
+        public void testgit()
+        {
+////
+////
+////
+        }
 
         public SynchronizationContext uiContext;
         CancellationTokenSource cts;
