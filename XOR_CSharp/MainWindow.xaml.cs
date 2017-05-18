@@ -25,7 +25,7 @@ namespace XOR_CSharp
     public partial class MainWindow : Window
     {
 
-        //jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+        //45
 
 
 
