@@ -28,8 +28,13 @@ namespace XOR_CSharp
         int test;
 
 
-        public void testgit()
+        public void rfrrgfrrf()
         {
+            int tyuiest2;
+            int teyuki3;
+            int teyuist4;
+            ////
+            ////
             test = 9;
             int test2;
             int test3;
@@ -38,11 +43,14 @@ namespace XOR_CSharp
             ////
         }
 
-        public void testgit2()
+        public void tuiluiluiolit2()
         {
+            int tyuiest2;
+            int teyuki3;
+            int teyuist4;
+            ////
+            ////
             test = 9;
-            int test2;
-            int test3;
             int test4;
             ////
             ////
