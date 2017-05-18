@@ -24,7 +24,25 @@ namespace XOR_CSharp
     /// </summary>
     public partial class MainWindow : Window
     {
+<<<<<<< HEAD
         int test;
+=======
+
+        public void testgit()
+        {
+////
+////
+////
+        }
+
+        public void testgit2()
+        {
+            ////
+            ////
+            ////
+        }
+
+>>>>>>> dev
         public SynchronizationContext uiContext;
         CancellationTokenSource cts;
         static int Key2 = 0;
