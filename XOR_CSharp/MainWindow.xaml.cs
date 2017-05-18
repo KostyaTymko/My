@@ -25,35 +25,24 @@ namespace XOR_CSharp
     public partial class MainWindow : Window
     {
 
-        int test;
-
-
-        public void rfrrgfrrf()
+        public void rfrrg333frrf()
         {
-            int tyuiest2;
-            int teyuki3;
-            int teyuist4;
-            ////
-            ////
-            test = 9;
-            int test2;
-            int test3;
-            int test4;
+            int tyyuiuiest2;
+            int teyyuiyuki3;
+            int teyyuuist4;
+            int teyu6yuyyt2;
+            int tyuyuiest3;
+            int teyuiyuist4;
             ////
             ////
         }
 
-        public void tuiluiluiolit2()
+        public void tuilyuiuiuiluiolit2()
         {
-            int tyuiest2;
-            int teyuki3;
-            int teyuist4;
-            ////
-            ////
-            test = 9;
-            int test4;
-            ////
-            ////
+            int tyuiyuiest2;
+            int tehuiyuyuki3;
+            int teyuyuiist4;
+            int tesyuiyt4;
         }
 
         public SynchronizationContext uiContext;
