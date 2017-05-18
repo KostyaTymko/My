@@ -32,6 +32,13 @@ namespace XOR_CSharp
 ////
         }
 
+        public void testgit2()
+        {
+            ////
+            ////
+            ////
+        }
+
         public SynchronizationContext uiContext;
         CancellationTokenSource cts;
         static int Key2 = 0;
